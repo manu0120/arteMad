@@ -1,0 +1,7 @@
+[user]
+	name = Manuel
+	email = manu0120sp@gmail.com
+[core]
+	editor = nano
+[credential]
+	helper = store
