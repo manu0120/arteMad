@@ -70,3 +70,24 @@ ls -la
 mkdir arteMad
 ls 
 exit 
+cd
+pwd 
+git add . 
+git remote remove 
+git remote remove origin
+git remote add origin https://github.com/manu0120/arteMad
+pwd 
+git add . 
+git status 
+git commit -am "version 1 BBDD SGE"
+git push origin master 
+git log 
+exit 
+pwd
+cat .git-credentials 
+exit 
+cd
+ls 
+cd arteMad/
+ls 
+exit 
