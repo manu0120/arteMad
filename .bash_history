@@ -91,3 +91,11 @@ ls
 cd arteMad/
 ls 
 exit 
+cd 
+git status 
+git log 
+git add . 
+git commit -am "version 2 BBDD SGE"
+git push master 
+git push origin master 
+exit 
