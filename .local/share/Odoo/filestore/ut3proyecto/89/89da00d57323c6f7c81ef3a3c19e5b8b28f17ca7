@@ -3,7 +3,7 @@
 // customizations.
 
 $o-user-website-values: map-merge($o-user-website-values, o-map-omit((
-    'font': null,
+    'font': 'Arvo',
     'headings-font': null,
     'navbar-font': null,
     'buttons-font': null,
@@ -12,5 +12,6 @@ $o-user-website-values: map-merge($o-user-website-values, o-map-omit((
     'header-template': 'slogan',
     'footer-template': null,
     'footer-scrolltop': null,
+    'font-size-base': 1.25rem,
     // -- hook --
 )));
