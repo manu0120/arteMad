@@ -1,8 +1,13 @@
 # arteMad 
+Hemos implementado un sistema de gestión empresarial en el que centralizamos la  
+gestión informática de la administración interna de este negocio
+(ventas, stock, porductos y más cosas).
 
 ## SITIO WEB 
 
 ### Página principal
+
+
 ![Tienda1](Imagenes%20README/main_page.png)
 
 ### Botones
