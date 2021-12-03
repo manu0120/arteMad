@@ -1,0 +1,18 @@
+
+
+.dam2_enman_button{
+  color:white; 
+    border-radius:7px;
+       background-color:#FF9393;
+  
+    padding:10px 7px;
+       font-weight:bold;
+}
+.dam2_enman_button:hover{
+    
+     background-color:white; 
+         color:black; 
+      text-decoration: none;
+       font-weight:bold; 
+   
+}

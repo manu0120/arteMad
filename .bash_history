@@ -99,3 +99,18 @@ git commit -am "version 2 BBDD SGE"
 git push master 
 git push origin master 
 exit 
+pwd
+ls -ls 
+mkdir 'Imagenes README'
+ls 
+exit 
+pwd
+ls -la
+clear
+git commit -am "Redame version1"
+git log
+git status 
+git add . 
+git status 
+git add . 
+exit
