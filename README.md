@@ -17,15 +17,15 @@ Definido el estilo de nuestro tema principal, personalizamos nuestra página de 
 ![Tienda2](Imagenes%20README/boton_css.png)
 ![Tienda3](Imagenes%20README/boton_js.png)
 
-En nuestra página web, tenemos una sección del menú llamada ”Encargo de productos”, que como su nombre indica, se pueden realizar pedidos por encargo que realizamos durante la temporada. 
-El pedido se realiza a través de un formulario, y cuando este se envíe, se mandan los datos al CRM. 
-
 ### Contacto 
 Si hacemos uso de uno de los botones implementados, se podrá acceder a una sección en la que los clientes pueden contactar con nosotros. 
 
 ![Contacto](Imagenes%20README/contacto.png)
 
 ### Encargo de productos
+En nuestra página web, tenemos una sección del menú llamada ”Encargo de productos”, que como su nombre indica, se pueden realizar pedidos por encargo que realizamos durante la temporada. 
+El pedido se realiza a través de un formulario, y cuando este se envíe, se mandan los datos al CRM.
+
 ![Form](Imagenes%20README/encargo_productos.png)
 
 ![Form CRM](Imagenes%20README/crm_form.png)
